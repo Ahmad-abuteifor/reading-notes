@@ -7,7 +7,7 @@ i am so happy to be here** .
 
 
 # Table of contant
-The files | explain
---------- |---------
-[growath](https://ahmad-abuteifor.github.io/reading-notes/growth)  |learn more about the growathminde.
-[read01](https://ahmad-abuteifor.github.io/reading-notes/read01)  |some example of the markdown
+|The files | explain|
+|--------- |---------|
+|[growath](https://ahmad-abuteifor.github.io/reading-notes/growth)  |learn more about the growathminde.|
+|[read01](https://ahmad-abuteifor.github.io/reading-notes/read01)  |some example of the markdown.|
