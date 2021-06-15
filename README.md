@@ -11,3 +11,8 @@ i am so happy to be here** .
 |--------- |---------|
 |[growath](https://ahmad-abuteifor.github.io/reading-notes/growth)  |learn more about the growathminde.|
 |[read01](https://ahmad-abuteifor.github.io/reading-notes/read01)  |some example of the markdown.|
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
