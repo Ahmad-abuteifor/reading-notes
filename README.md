@@ -7,6 +7,7 @@ i am so happy to be here**
 
 
 # table of contant
-First Header | Second Header
+The files | explain 
 ------------ | -------------
-[growath]()
+[growath](https://ahmad-abuteifor.github.io/reading-notes/growth)  |learn more about the growathminde 
+[read01](https://ahmad-abuteifor.github.io/reading-notes/read01)  |some example of the markdown
