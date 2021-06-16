@@ -10,6 +10,7 @@ i am so happy to be here** .
 
 | the files       | content     |
 | :------------- | :----------: |
+| [growth](https://ahmad-abuteifor.github.io/reading-notes/growth)| growthmind |
 |  [read01](https://ahmad-abuteifor.github.io/reading-notes/read01) |markdown   |
 | [read02](https://ahmad-abuteifor.github.io/reading-notes/read02)   | git|
 |  [read03](https://ahmad-abuteifor.github.io/reading-notes/read03) | html   | 
