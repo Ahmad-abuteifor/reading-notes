@@ -8,7 +8,9 @@ i am so happy to be here** .
 
 # Table of contant
 
-| The files      |  explain |
-| ----------- | ----------- |
-| [growath](https://ahmad-abuteifor.github.io/reading-notes/growth)      | more about the growathminde       |
-| [read01](https://ahmad-abuteifor.github.io/reading-notes/read01)   | some example of the markdown.        |
+| the files       | content     |
+| :------------- | :----------: |
+|  [read01](https://ahmad-abuteifor.github.io/reading-notes/read01) |markdown   |
+| [read02](https://ahmad-abuteifor.github.io/reading-notes/read02)   | git|
+|  [read03](https://ahmad-abuteifor.github.io/reading-notes/read03) | html   | 
+| [read04](https://ahmad-abuteifor.github.io/reading-notes/read04)   | JavaScript |
