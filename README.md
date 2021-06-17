@@ -15,3 +15,5 @@ i am so happy to be here** .
 | [read02](https://ahmad-abuteifor.github.io/reading-notes/read02)   | git|
 |  [read03](https://ahmad-abuteifor.github.io/reading-notes/read03) | html   | 
 | [read04](https://ahmad-abuteifor.github.io/reading-notes/read04)   | JavaScript |
+| [read05](https://ahmad-abuteifor.github.io/reading-notes/read05) | loop |
+| [read06](https://ahmad-abuteifor.github.io/reading-notes/read06) | css |
