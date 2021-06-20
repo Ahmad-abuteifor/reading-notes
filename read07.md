@@ -11,7 +11,7 @@ Functions are one of the fundamental building blocks in JavaScript. A function i
 
 1.The name of the function.  
 2.A list of parameters to the function, enclosed in   parentheses and separated by commas.     
-3.The JavaScript statements that define the function, enclosed in curly brackets,  
+3.The JavaScript statements that define the function, in {} karly bruct
 
   **example :** 
 
