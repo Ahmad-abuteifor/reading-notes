@@ -66,10 +66,10 @@ elements. These are known as
 inline elements
 
 Examples of inline elements are:  
-<a>,   
-<b>,  
-<em>,  
-<img>.
+1. <a>     
+2. <b>  
+3. <em>  
+4. <img>
 
 The <div> and <span> elements allow you to group
 block-level and inline elements together.  
@@ -85,7 +85,10 @@ characters in your pages such as <, >, and ©.
 
 
 # Html 5 Layout
+
 ![lyt](https://stuyhsdesign.files.wordpress.com/2016/05/yoko-html5.png) 
+
+
 
 **Headers & Footers**
 <header> <footer> 
@@ -93,54 +96,61 @@ characters in your pages such as <, >, and ©.
 The main header or footer
 that appears at the top or
 bottom of every page on the
-site.
+site.  
+
 
 The** <nav> **element is used to
 contain the major navigational
 blocks on the site such as the
-primary site navigation.  
+primary site navigation.    
+
 
 The **<article>** element acts as
 a container for any section of a
 page that could stand alone and
-potentially be syndicated.
+potentially be syndicated.    
+
 
 The**<section>** element groups
 related content together, and
 typically each section would
-have its own heading  
+have its own heading     
+
 
 # when you are creating a new website.
 
 you need to look at :  
-1. Who is the Site For   
+1. Who is the Site For     
 2. Why People Visit
 YOUR Website  
 3.What Your Visitors are
-Trying to Achieve  
+Trying to Achieve    
 4. What Information
-Your Visitors Need  
-5. How Of ten People Will
-Visit Your Site  
-6. Site Maps   
-7. Wireframes  
+Your Visitors Need    
+5. How Of ten People Will  
+Visit Your Site    
+6. Site Maps     
+7. Wireframes    
 
 
 
 
+**Wireframes**
 
 ![Wireframes](https://www.experienceux.co.uk/wp-content/uploads/2015/06/wireframe_example_small.jpg)
 
-![Site Maps  ](https://static.javatpoint.com/seo/images/site-map1.png)
+
+**Site Maps**
+![Site Maps](https://static.javatpoint.com/seo/images/site-map1.png)
 
 
 
 # javascript   
 A script is a series of instructions that the computer  
-can follow in order to achieve a goal.  
+can follow in order to achieve a goal.    
 Each time the script runs, it might only use a subset of
-all the instructions.  
+all the instructions.    
 
 computers creat models of the world using mdata 
-the models use objects to represent physicalthings the objectevis can have properites that tell us about the objest methods that perform taks using the porperties of the object 
-programer can write code say when this event occurs run that code 
+the models use objects to represent physicalthings the objectevis can have properites that tell us about the objest methods that perform taks using the porperties of the object   
+programer can write code say when this event occurs run that code   
