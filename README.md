@@ -28,3 +28,4 @@ i am so happy to be here** .
 | the files       | content     |
 | :------------- | :----------: |
 | [class01](https://ahmad-abuteifor.github.io/reading-notes/read201/class01) | html,js |
+| [class02](https://ahmad-abuteifor.github.io/reading-notes/read201/class02) | tags ,css and intro in jss |
