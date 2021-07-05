@@ -7,17 +7,17 @@ three different types:
 . Unordered lists    
 
 The ordered list is created with  
-the <ol> element   
+the < ol > element   
 Ordered lists use numbers.  
 
 Each item in the list is placed
-between an opening <li> tag  
-and a closing </li> tag.  
+between an opening < li> tag  
+and a closing < /li> tag.  
 
 
-<ul>  
+< ul>  
 The unordered list is created  
-with the <ul> element. and also the same with <ol>
+with the < ul> element. and also the same with < ol>
  Unordered lists use bullets.    
 
 ![olandul](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhlysFuog68pmp3HH0MkkJBtoXEmptBE9lxg&usqp=CAU)
