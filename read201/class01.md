@@ -43,7 +43,7 @@ the page is using
 If you want to add a comment
 to your code that will not be
 visible in the user's browser 
- <!-- comment goes here -->  
+ < !-- comment goes here -->  
 
 
 **ID Attribute**: It is used to
@@ -66,18 +66,18 @@ elements. These are known as
 inline elements
 
 Examples of inline elements are:  
-1. <a>     
-2. <b>  
-3. <em>  
-4. <img>
+1. < a>     
+2. < b>  
+3. < em>  
+4.  < img>
 
-The <div> and <span> elements allow you to group
+The < div> and < span> elements allow you to group
 block-level and inline elements together.  
 
-<iframes> cut windows into your web pages through
+< iframes> cut windows into your web pages through
 which other pages can be displayed.  
 
- The <meta> tag allows you to supply all kinds of
+ The < meta> tag allows you to supply all kinds of
 information about your web page.  
 
 Escape characters are used to include special
@@ -91,7 +91,7 @@ characters in your pages such as <, >, and ©.
 
 
 **Headers & Footers**
-<header> <footer> 
+< header> < footer> 
 
 The main header or footer
 that appears at the top or
@@ -99,19 +99,19 @@ bottom of every page on the
 site.  
 
 
-The** <nav> **element is used to
+The** < nav> **element is used to
 contain the major navigational
 blocks on the site such as the
 primary site navigation.    
 
 
-The **<article>** element acts as
+The **< article >** element acts as
 a container for any section of a
 page that could stand alone and
 potentially be syndicated.    
 
 
-The**<section>** element groups
+The**< section>** element groups
 related content together, and
 typically each section would
 have its own heading     
