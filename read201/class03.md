@@ -43,11 +43,13 @@ can be adjusted to control its appearance:
 
 ![cont](https://sabe.io/classes/css/css-box-model-padding-border-margin/css-box-model.png) 
 
+
 **you can make changes in the style of it for the width and the height everything  and the color**
 
 
 
 # DECISIONS  
+
 Using the results of
 evaluations, you can
 decide which path your
