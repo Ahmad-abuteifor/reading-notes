@@ -32,4 +32,5 @@ i am so happy to be here** .
 | [class03](https://ahmad-abuteifor.github.io/reading-notes/read201/class03) | boxs and loops |
 | [class04](https://ahmad-abuteifor.github.io/reading-notes/read201/class04)  | links,layout and function |
 | [class05](https://ahmad-abuteifor.github.io/reading-notes/read201/class05) | img,text |
-| [class06](https://ahmad-abuteifor.github.io/reading-notes/read201/class06)  | opjects  |
+| [class06](https://ahmad-abuteifor.github.io/reading-notes/read201/class06)  | objects  |
+| [class07](https://ahmad-abuteifor.github.io/reading-notes/read201/class07)| function and objects |
