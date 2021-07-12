@@ -34,3 +34,4 @@ i am so happy to be here** .
 | [class05](https://ahmad-abuteifor.github.io/reading-notes/read201/class05) | img,text |
 | [class06](https://ahmad-abuteifor.github.io/reading-notes/read201/class06)  | objects  |
 | [class07](https://ahmad-abuteifor.github.io/reading-notes/read201/class07)| function and objects |
+| [class08](https://ahmad-abuteifor.github.io/reading-notes/read201/class08)| layout,and postions |
