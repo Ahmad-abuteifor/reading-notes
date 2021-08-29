@@ -49,4 +49,4 @@ i am so happy to be here** .
 ##  Code 301 - Intermediate Software Development
  | the files       | content     |  
  | :------------- | :----------: |  
- | [calss1](https://ahmad-abuteifor.github.io/reading-notes/code301/reading01.md)|props and components | 
+ | [calss1](https://ahmad-abuteifor.github.io/reading-notes/code301/reading01)|props and components | 
