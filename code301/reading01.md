@@ -82,3 +82,23 @@ It is viewed as a functional element or a module of a program that integrates th
 ![](https://www.tutorialspoint.com/software_architecture_design/images/principles_of_component_based_design.jpg)
 
 
+
+
+
+
+**What are the characteristics of a component?**
+  it has many characteristics 
+  1. Path  
+  2. Component name.   
+  3. Version number.  
+  4. Platform.  
+  5. Check-in date  
+  6. Check-in user.   
+  7. Label  
+  8. Category  
+  8. Description  
+  9. Source  
+
+
+  **-What are the advantages of using component based architecture?**
+it so helpfull regarding to the path give us the A location in the folder in which to store components  and the name also use thte type for it helping for the version and platform for operarting system wich of the componants can be install 
