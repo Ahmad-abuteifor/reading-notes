@@ -50,3 +50,4 @@ i am so happy to be here** .
  | the files       | content     |  
  | :------------- | :----------: |  
  | [calss1](https://ahmad-abuteifor.github.io/reading-notes/code301/reading01)|props and components | 
+ | [calss2](https://ahmad-abuteifor.github.io/reading-notes/code301/reading02)|props and components | 
