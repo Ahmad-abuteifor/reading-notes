@@ -30,7 +30,11 @@ shouldComponentUpdate()
 The default behavior in react is to rerender after every state change. Setting shouldComponentUpdate() to false allows you to prevent this from happening. This is in order to optimize performance.
 
 
+What types of things can you pass in the props?
 
+props it is like argument to a function , so when we create component in react it will pass props that we would give it . when we want to display something for the user and it is static not changeable
+
+  
 
 
 props and state 
