@@ -55,5 +55,5 @@ i am so happy to be here** .
  | [calss4](https://ahmad-abuteifor.github.io/reading-notes/code301/reading04)|react form| 
   | [calss5](https://ahmad-abuteifor.github.io/reading-notes/code301/reading05)| UI and static version | 
    | [calss6](https://ahmad-abuteifor.github.io/reading-notes/code301/reading06)| node and npm | 
-
+   | [calss7](https://ahmad-abuteifor.github.io/reading-notes/code301/reading06)| reset | 
   
