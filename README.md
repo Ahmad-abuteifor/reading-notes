@@ -57,5 +57,9 @@ about the module and the react and nodejs
   | [calss5](https://ahmad-abuteifor.github.io/reading-notes/code301/reading05)| UI and static version | 
    | [calss6](https://ahmad-abuteifor.github.io/reading-notes/code301/reading06)| node and npm | 
    | [calss7](https://ahmad-abuteifor.github.io/reading-notes/code301/reading07)| reset | 
-  | [calss8](https://ahmad-abuteifor.github.io/reading-notes/code301/reading08)| reset | 
-    | [calss9](https://ahmad-abuteifor.github.io/reading-notes/code301/reading09)| reset | 
+  | [calss8](https://ahmad-abuteifor.github.io/reading-notes/code301/reading08)| reset |
+  | [calss9](https://ahmad-abuteifor.github.io/reading-notes/code301/reading09)| Programming Concepts  |    
+  | [calss10](https://ahmad-abuteifor.github.io/reading-notes/code301/reading10)| Call Stack and error   |    
+  
+
+     
