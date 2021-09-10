@@ -7,6 +7,7 @@ i am so happy to be here** .
 
 ## Things I want to know more about 
 about the module and the react and nodejs 
+mongodb and sQl NoSQL
 
 
 # Table of contant
@@ -60,6 +61,7 @@ about the module and the react and nodejs
   | [calss8](https://ahmad-abuteifor.github.io/reading-notes/code301/reading08)| reset |
   | [calss9](https://ahmad-abuteifor.github.io/reading-notes/code301/reading09)| Programming Concepts  |    
   | [calss10](https://ahmad-abuteifor.github.io/reading-notes/code301/reading10)| Call Stack and error   |    
+  | [calss11](https://ahmad-abuteifor.github.io/reading-notes/code301/reading11)| SQL and NoSQL |    
   
 
      
