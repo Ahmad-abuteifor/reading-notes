@@ -63,7 +63,8 @@ mongodb and sQl NoSQL about the rest and the error Status Codes
   | [calss10](https://ahmad-abuteifor.github.io/reading-notes/code301/reading10)| Call Stack and error   |    
   | [calss11](https://ahmad-abuteifor.github.io/reading-notes/code301/reading11)| SQL and NoSQL |    
   | [calss12](https://ahmad-abuteifor.github.io/reading-notes/code301/reading12)|Status Codesbased on REST | 
-   | [calss13](https://ahmad-abuteifor.github.io/reading-notes/code301/reading13)| Diversity & Inclusion in the Tech Industry| 
-  
-
+   | [calss13](https://ahmad-abuteifor.github.io/reading-notes/code301/reading13)| Diversity & Inclusion in the Tech Industry|
+   |[calss14](https://ahmad-abuteifor.github.io/reading-notes/code301/reading14)| OAuth ,Authorization and Authentication flows| 
+ 
+    
      
